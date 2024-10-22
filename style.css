@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Poppins:wght@300;400;500;700");
+
+body {
+  background-color: #E0D1B3;
+  font-family: "Poppins", serif;
+  color: #2C3527;
+  font-size: 16px;
+  line-height: 1;
+}
+
+
+button {
+    background-color: black; /* Black background */
+    color: #E0D1B3; /* Muted Beige/Tan text color */
+    border: 2px solid #2C3527; /* Muted Beige/Tan border */
+    padding: 10px 20px; /* Optional: Padding for better spacing */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+a i {
+  color: black; /* Change this to your desired color */
+}
+
+h1, h2, h3 {
+  font-family: 'Helvetica Neue', sans-serif;
+  color: #2C3527;
+}
+
+h1 {
+  font-size: 30px;
+  line-height: 1;
+}
+
+h2 {
+  font-size: 18px;
+  line-height: 1.1;
+}
+
+h3 {
+  font-size: 14px;
+  line-height: 1.1;
+}
+
+/* Hover effect */
+a i:hover {
+  color: #ff6600; /* Color when hovered */
+  text-decoration: underline; /* Adds underline on hover */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+
+
+
+
+
+
+
+
+
+
+<!--
+Body
+Pick a nice background-color,
+font-family,
+color,
+font-size and
+line-height
+
+for the <body>.
+Setting these font rules at the body-level will apply them on all basic text tags (<p>, <li>, etc.).
+-->
